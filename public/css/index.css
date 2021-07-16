@@ -1,0 +1,12 @@
+body {
+  color: red;
+}
+
+.hero {
+  min-height: calc(100vh - 57px);
+  background: url("../img/city.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
